@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kk74hm4tsOM=",
+  "success": true,
+  "projectFilePath": "F:\\WorkSpace\\Led_GUI_Extention\\WinAppDriverTest\\WinAppDriverTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\talge\\.nuget\\packages\\appium.webdriver\\5.0.0\\appium.webdriver.5.0.0.nupkg.sha512",
+    "C:\\Users\\talge\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\talge\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\talge\\.nuget\\packages\\selenium.support\\4.21.0\\selenium.support.4.21.0.nupkg.sha512",
+    "C:\\Users\\talge\\.nuget\\packages\\selenium.webdriver\\4.22.0\\selenium.webdriver.4.22.0.nupkg.sha512",
+    "C:\\Users\\talge\\.nuget\\packages\\symspell\\6.7.2\\symspell.6.7.2.nupkg.sha512",
+    "C:\\Users\\talge\\.nuget\\packages\\system.drawing.common\\8.0.6\\system.drawing.common.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

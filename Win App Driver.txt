@@ -1,0 +1,5 @@
+1. https://mvnrepository.com/ -> Appium (on search box) -> java client -> 
+
+2. https://mvnrepository.com/ -> selenium (on search box) ->  selenium-java -> 
+
+3. https://github.com/Microsoft/WinAppDriver/releases (install if not already installed)

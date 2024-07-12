@@ -1,0 +1,15 @@
+F:\WorkSpace\Led_GUI_Extention\Led_GUI_Extention\bin\Debug\Led_GUI_Extention.exe.config
+F:\WorkSpace\Led_GUI_Extention\Led_GUI_Extention\bin\Debug\Led_GUI_Extention.exe
+F:\WorkSpace\Led_GUI_Extention\Led_GUI_Extention\bin\Debug\Led_GUI_Extention.pdb
+F:\WorkSpace\Led_GUI_Extention\Led_GUI_Extention\bin\Debug\SymSpell.dll
+F:\WorkSpace\Led_GUI_Extention\Led_GUI_Extention\bin\Debug\System.Drawing.Common.dll
+F:\WorkSpace\Led_GUI_Extention\Led_GUI_Extention\bin\Debug\System.Drawing.Common.pdb
+F:\WorkSpace\Led_GUI_Extention\Led_GUI_Extention\bin\Debug\System.Drawing.Common.xml
+F:\WorkSpace\Led_GUI_Extention\Led_GUI_Extention\obj\Debug\Led_GUI_Extention.csproj.AssemblyReference.cache
+F:\WorkSpace\Led_GUI_Extention\Led_GUI_Extention\obj\Debug\Led_GUI_Extention.Form1.resources
+F:\WorkSpace\Led_GUI_Extention\Led_GUI_Extention\obj\Debug\Led_GUI_Extention.Properties.Resources.resources
+F:\WorkSpace\Led_GUI_Extention\Led_GUI_Extention\obj\Debug\Led_GUI_Extention.csproj.GenerateResource.cache
+F:\WorkSpace\Led_GUI_Extention\Led_GUI_Extention\obj\Debug\Led_GUI_Extention.csproj.CoreCompileInputs.cache
+F:\WorkSpace\Led_GUI_Extention\Led_GUI_Extention\obj\Debug\Led_GUI_.1D34F938.Up2Date
+F:\WorkSpace\Led_GUI_Extention\Led_GUI_Extention\obj\Debug\Led_GUI_Extention.exe
+F:\WorkSpace\Led_GUI_Extention\Led_GUI_Extention\obj\Debug\Led_GUI_Extention.pdb
